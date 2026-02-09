@@ -43,7 +43,7 @@ A faith-based devotional and journaling web app designed for reflection, note-ta
 A workout tracking app that allows users to log workouts, track progress, and stay consistent.
 
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/SAM-MEG/GymTrac  
+🔗 Repo: https://sam-meg.github.io/gymtrac-/
 
 ---
 
@@ -51,7 +51,7 @@ A workout tracking app that allows users to log workouts, track progress, and st
 A fin tech solution that helps family's plan a financialy stable future together. An app that teaches financial responsibility early on and secure general wealth .
 
 **Tech:** HTML, CSS, JavaScript 
-🔗 Repo: https://github.com/SAM-MEG/Landing-Pages  
+🔗 Repo:https://sam-meg.github.io/LegacyLink-Prototype-1/ 
 
 ---
 
