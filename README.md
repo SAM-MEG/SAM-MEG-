@@ -34,7 +34,7 @@ Junior Web Designer / UI-UX / Frontend roles (WordPress-focused or hybrid)
 A faith-based devotional and journaling web app designed for reflection, note-taking, and personal study.
 
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/SAM-MEG/women-of-the-bible  
+🔗 Repo: https://github.com/SAM-MEG/Woman-of-the-Bible
 
 
 ---
@@ -43,7 +43,7 @@ A faith-based devotional and journaling web app designed for reflection, note-ta
 A workout tracking app that allows users to log workouts, track progress, and stay consistent.
 
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: https://sam-meg.github.io/gymtrac-/
+🔗 Repo: https://github.com/SAM-MEG/gymtrac-
 
 ---
 
@@ -51,7 +51,7 @@ A workout tracking app that allows users to log workouts, track progress, and st
 A fin tech solution that helps family's plan a financialy stable future together. An app that teaches financial responsibility early on and secure general wealth .
 
 **Tech:** HTML, CSS, JavaScript 
-🔗 Repo:https://sam-meg.github.io/LegacyLink-Prototype-1/ 
+🔗 Repo:https://github.com/SAM-MEG/LegacyLink-Prototype-1 
 
 ---
 
@@ -60,14 +60,6 @@ A set of modern, responsive landing pages built for different use-cases includin
 
 **Tech:** HTML, CSS  
 🔗 Repo: https://github.com/SAM-MEG/Fitness-Challenge- 
-
----
-
-###  Interactive Cost Calculator
-A responsive calculator built to dynamically calculate service costs based on user selections.
-
-**Tech:** HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/SAM-MEG/Cost-Calculato  
 
 ---
 
