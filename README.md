@@ -59,7 +59,7 @@ A fin tech solution that helps family's plan a financialy stable future together
 A set of modern, responsive landing pages built for different use-cases including events, brands, and small businesses.
 
 **Tech:** HTML, CSS  
-🔗 Repo: https://github.com/SAM-MEG/Landing-Pages  
+🔗 Repo: https://github.com/SAM-MEG/Fitness-Challenge- 
 
 ---
 
@@ -67,7 +67,7 @@ A set of modern, responsive landing pages built for different use-cases includin
 A responsive calculator built to dynamically calculate service costs based on user selections.
 
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/SAM-MEG/Cost-Calculator  
+🔗 Repo: https://github.com/SAM-MEG/Cost-Calculato  
 
 ---
 
